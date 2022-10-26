@@ -1,5 +1,5 @@
 {
-    "name": "hello-world",
+    "name": "@adoublef/hello-world",
     "version": "0.0.2",
     "description": "simple npm library",
     "main": "index.js",

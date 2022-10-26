@@ -16,3 +16,9 @@ I will also need to clean the `package.json` file to exclude certain **key=value
 Syncing the package version with github tags is easy with the `npm version (major|minor|patch)` command.
 
 This library with also use github actions to automate the process.
+
+## What I want
+
+To change directory into `dist` and push to NPM registry, then delete that folder on cleanup.
+
+I would need to do the following `npm publish --access public`
