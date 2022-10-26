@@ -1,6 +1,6 @@
 {
     "name": "hello-world",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "simple npm library",
     "main": "index.js",
     "scripts": {
