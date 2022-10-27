@@ -22,3 +22,5 @@ This library with also use github actions to automate the process.
 To change directory into `dist` and push to NPM registry, then delete that folder on cleanup.
 
 I would need to do the following `npm publish --access public`
+
+More help with publishing can be found [here](https://dev.to/nljmsmnzls/publishing-your-first-typescript-npm-package-using-github-actions-3fbf)
