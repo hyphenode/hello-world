@@ -4,3 +4,5 @@ export const capitalize = (str: string) => {
         return [f.toUpperCase(), ...rest].join("");
     }).join(" ");
 };
+
+export const uppercase = (s: string) => s.toUpperCase();
