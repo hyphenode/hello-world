@@ -1,5 +1,4 @@
-import { add } from "./add";
-import { isOdd } from "./is";
+import { add, isOdd } from "./index";
 
 describe(`test add function`, () => {
     it(`should add two positive integers`, () => {

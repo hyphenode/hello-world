@@ -8,7 +8,6 @@
         "postbuild": "cd dist && npm pkg delete scripts devDependencies",
         "test": "jest",
         "preversion": "npm test",
-        "version": "echo \"updating version\"",
         "postversion": "git push && git push --tags"
     },
     "repository": {
@@ -20,6 +19,7 @@
         "hello-world"
     ],
     "author": "adoublef",
+    "email": "kristopherab@gmail.com",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/hyphenode/hello-world/issues"
