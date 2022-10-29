@@ -25,4 +25,4 @@ I would need to do the following `npm publish --access public`
 
 More help with publishing can be found [here](https://dev.to/nljmsmnzls/publishing-your-first-typescript-npm-package-using-github-actions-3fbf)
 
-Currently require a PR to commit to `main` branch. 
+Currently require a PR to commit to `main` branch.
