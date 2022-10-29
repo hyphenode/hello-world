@@ -17,7 +17,7 @@ Syncing the package version with github tags is easy with the `npm version (majo
 
 This library with also use github actions to automate the process.
 
-## What I want
+## What I want to do?
 
 To change directory into `dist` and push to NPM registry, then delete that folder on cleanup.
 
