@@ -8,7 +8,7 @@
         "postbuild": "cd dist && npm pkg delete scripts devDependencies",
         "test": "jest",
         "preversion": "npm test",
-        "postversion": "git push && git push --tags"
+        "postversion": "git push --tags"
     },
     "repository": {
         "type": "git",
